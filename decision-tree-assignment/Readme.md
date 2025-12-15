@@ -1,33 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment Visualizations</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            text-align: center;
-        }
-        .visualization-item {
-            margin-bottom: 50px;
-        }
-        h2 {
-            margin-bottom: 15px;
-            color: #333;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #ccc;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-    </style>
-</head>
 <body>
 
 <div class="container">
