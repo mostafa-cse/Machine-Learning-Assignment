@@ -1,10 +1,10 @@
 ### Accurecy Plot
-<img width="1018" height="470" alt="image" src="https://github.com/user-attachments/assets/6d819720-43da-45e7-864c-d61dceea316d" />
+<img width="1005" height="470" alt="image" src="https://github.com/user-attachments/assets/4c46ffec-14aa-4554-a7f4-0dbfb5d08847" />
 
 ---
 
 ### Confusion Matrix
-<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/f152ba87-1f6b-4f94-8be9-bb96d7fb282e" />
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/ec8fbe2d-9516-4516-8003-4e26ca960fc0" />
 
 ---
 
@@ -15,3 +15,4 @@
 
 ### Visual Error Analysis
 <img width="950" height="336" alt="image" src="https://github.com/user-attachments/assets/9d04d163-60b3-433e-b728-3d4579237986" />
+
