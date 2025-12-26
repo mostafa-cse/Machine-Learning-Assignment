@@ -4,9 +4,11 @@
 ### Confusion Matrix
 <img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/f152ba87-1f6b-4f94-8be9-bb96d7fb282e" />
 
-### Custon Prediction Gallery
-<img width="1489" height="1092" alt="image" src="https://github.com/user-attachments/assets/5ecee6b1-ccff-46c5-a5a5-a3e99da95898" />
+### Custom Prediction Gallery
+<img width="1489" height="1189" alt="image" src="https://github.com/user-attachments/assets/6182eb12-ea6f-4803-8fc0-a49f8735cbdd" />
+
 
 
 ### Visual Error Analysis
 <img width="950" height="336" alt="image" src="https://github.com/user-attachments/assets/25adb9cc-0165-4718-a049-0c8e99953c12" />
+
